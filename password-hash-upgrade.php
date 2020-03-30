@@ -20,14 +20,14 @@ class PASSWORD_HASH_UPGRADE {
 	 *
 	 * @var int
 	 */
-	public const HASH_ALGO = PASSWORD_DEFAULT;
+	const HASH_ALGO = PASSWORD_DEFAULT;
 
 	/**
 	 * The phpass integer to ASCII 64 charset.
 	 *
 	 * @var string
 	 */
-	public const PHPASS_ITOA64_CHARSET =
+	const PHPASS_ITOA64_CHARSET =
 		'./0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
 
 	/**
