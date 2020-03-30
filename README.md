@@ -2,6 +2,8 @@
 
 A WordPress plugin to upgrade old password hashes to use modern PHP hashes
 
+[![travis-ci](https://travis-ci.org/AlexanderOMara/wordpress-password-hash-upgrade.svg?branch=master)](https://travis-ci.org/AlexanderOMara/wordpress-password-hash-upgrade)
+
 
 # Overview
 
