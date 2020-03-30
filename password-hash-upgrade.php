@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Password Hash Upgrade
-Version: 0.0.0
+Version: 1.0.0
 Author: Alexander O'Mara
 License: GPL-2.0-or-later
 Description: Upgrade old password hashes to use modern PHP hashes.
